@@ -275,6 +275,14 @@ body::-webkit-scrollbar-track {
   .recipe-container {
     justify-content: center;
   }
+
+  .recipe-details {
+    width: 90%;
+    height: 75%;
+    font-size: 16px;
+    padding: 10px;
+  }
+  
 }
 
 
